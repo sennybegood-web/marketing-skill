@@ -53,3 +53,10 @@
 
 | Date | Platform | Topic / Hook | Status | Source | Notes |
 |---|---|---|---|---|---|
+| 2026-11-09 | Instagram + TikTok | Qui je suis (vidéo) | Ready for Approval | content-calendar | state/posts/2026-11-09-instagram-tiktok.md ; à faire approuver par la conformité |
+| 2026-11-10 | Instagram + TikTok | REEE : 30 % de subventions (vidéo) | Ready for Approval | content-calendar | state/posts/2026-11-10-instagram-tiktok.md ; à faire approuver par la conformité |
+| 2026-11-11 | Instagram + TikTok | CELI ou REER ? (carrousel) | Ready for Approval | content-calendar | state/posts/2026-11-11-instagram-tiktok.md ; à faire approuver par la conformité |
+| 2026-11-12 | Instagram + TikTok | L'argent qui dort (vidéo) | Ready for Approval | content-calendar | state/posts/2026-11-12-instagram-tiktok.md ; à faire approuver par la conformité |
+| 2026-11-13 | Instagram + TikTok | CELIAPP première maison (carrousel) | Ready for Approval | content-calendar | state/posts/2026-11-13-instagram-tiktok.md ; à faire approuver par la conformité |
+| 2026-11-14 | Instagram + TikTok | 3 questions avant le 31 décembre (vidéo) | Ready for Approval | content-calendar | state/posts/2026-11-14-instagram-tiktok.md ; à faire approuver par la conformité |
+| 2026-11-15 | Instagram + TikTok | 5 places de bilan gratuit (vidéo) | Ready for Approval | content-calendar | state/posts/2026-11-15-instagram-tiktok.md ; à faire approuver par la conformité |

@@ -1,4 +1,4 @@
-<!-- MARKETING-SKILL:UNCONFIGURED -->
+<!-- MARKETING-SKILL:CONFIGURED (last updated: 2026-11-06) -->
 # Brand Voice & Marketing Preferences
 
 > This file is the single source of truth every skill in this plugin reads
@@ -12,68 +12,53 @@
 > `<!-- MARKETING-SKILL:CONFIGURED (last updated: YYYY-MM-DD) -->`.
 
 ## Priority Task
-Not yet configured — run `/marketing-skill:marketing-setup` or edit this
-directly. (This is the marketing task you want automated first: e.g.
-weekly newsletters, competitor research, blog-to-social repurposing.)
+Publications Instagram et TikTok (pas de LinkedIn) qui amènent
+des demandes de rendez-vous gratuits (bilan épargne), pour grossir l'actif
+sous gestion.
 
 ## Content Types
-Not yet configured. Placeholder default: "whatever content type fits the
-skill in use (text/social posts, short-form video scripts, long-form
-video scripts, email, images); ask if unclear which one to prioritize."
-(This is the medium you actually want produced — e.g. short-form video
-scripts for Reels/TikTok/Shorts, long-form video scripts, text/social
-posts, email, images, or a mix — as distinct from the *structure* set
-under "Default Output Format" below.)
+Vidéos verticales courtes (Reels et TikTok) et carrousels (Instagram et
+mode photo TikTok). Pas de LinkedIn.
 
 ## Project
-Not yet configured. What the project is, confirmed by the user, so every
-video and post starts from it instead of a guess. `short-form-video` (and
-the other skills) check the project's own files with `scripts/project.py`,
-ask the user to confirm or correct what they found, and offer to save it
-here. Once set, it looks like:
-
-- Name: Invoicely
-- What it is: an app that sends an invoice the moment the work is done and chases late payments
-- For: freelancers and small agencies
-- Links: https://invoicely.example
-- What's new: automatic reminders for late invoices (1.4.0)
-- Material: public/screenshots/ (app screens), assets/logo.png
-- Avoid: naming competitors; promising when clients will pay
+- Nom : Sean, conseiller en épargne
+- Ce que c'est : accompagnement en épargne et placements (CELI, REER,
+  CELIAPP, REEE) pour particuliers et familles au Québec
+- Pour : jeunes familles, travailleurs de 25 à 55 ans, futurs acheteurs
+  d'une première maison, travailleurs autonomes
+- Offre : bilan épargne gratuit de 20 minutes, sans engagement
+- À éviter : promettre un rendement, comparer des produits nommés,
+  nommer des concurrents, donner un conseil personnalisé dans un post
 
 ## Target Audience
-Not yet configured. Placeholder default: "general B2B software buyers."
+Particuliers et familles au Québec qui veulent mettre de l'ordre dans
+leur épargne mais n'ont pas de conseiller ou n'osent pas demander.
 
 ## Brand Voice & Tone
-Not yet configured. Placeholder default: "confident, plain-spoken, a little
-dry; avoid corporate jargon and hype."
+Français québécois simple, chaleureux, direct. Tutoiement. Pédagogique, jamais vendeur ni
+alarmiste. Phrases courtes.
 
 ## Default Output Format
-Not yet configured. Placeholder default: "produce all supported formats for
-the skill in use, unless the user asks for one specifically."
+Accroche forte (1 ligne) + 3 à 5 lignes utiles + appel à l'action clair
+vers un rendez-vous (commenter le mot-clé « BILAN »).
 
 ## Banned Words & Phrases
-- "game-changer"
-- "revolutionary"
-- "synergy"
-- "seamless"
-- "unlock"
-- "supercharge"
-- "in today's fast-paced world"
-- "at the end of the day"
-
-(Placeholder generic list — replace with your own banned words, house
-style exceptions, or competitor names to avoid naming directly.)
+- « rendement garanti », « sans risque », « devenir riche »
+- tout chiffre de rendement futur ou promesse de résultat
+- « game-changer », « révolutionnaire »
+- noms de concurrents
 
 ## Formatting Constraints
-- Oxford comma: yes (placeholder default)
-- Emoji: none in long-form copy; sparing use allowed in social posts only
-  if the user asks for it
-- Heading style: sentence case
-- Sentence length: prefer short-to-medium sentences; avoid run-ons
+- Emoji : avec modération
+- Style des titres : majuscule en début de phrase seulement
+- Phrases courtes à moyennes
+- Conformité : chaque publication doit être approuvée par la conformité
+  de l'entreprise avant mise en ligne (règles AMF) ; information générale
+  seulement, pas de conseil personnalisé.
 
 ## Do / Don't Examples
-- Don't: "Our revolutionary platform will supercharge your workflow!"
-- Do: "The platform cuts manual steps from your workflow."
+- Don't : « Placez avec moi et doublez votre argent ! »
+- Do : « Un bilan de 20 minutes pour voir si votre épargne travaille vraiment pour vous. »
 
 ## Sonic Identity
 Not yet configured. The sound of every video rendered for this project:
