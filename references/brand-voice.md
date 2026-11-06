@@ -12,13 +12,13 @@
 > `<!-- MARKETING-SKILL:CONFIGURED (last updated: YYYY-MM-DD) -->`.
 
 ## Priority Task
-Publications réseaux sociaux (LinkedIn, Facebook, Instagram) qui amènent
+Publications Instagram et TikTok (pas de LinkedIn) qui amènent
 des demandes de rendez-vous gratuits (bilan épargne), pour grossir l'actif
 sous gestion.
 
 ## Content Types
-Publications texte et carrousels pour LinkedIn, Facebook et Instagram ;
-scripts courts de Reels à l'occasion.
+Vidéos verticales courtes (Reels et TikTok) et carrousels (Instagram et
+mode photo TikTok). Pas de LinkedIn.
 
 ## Project
 - Nom : Sean, conseiller en épargne
@@ -35,13 +35,12 @@ Particuliers et familles au Québec qui veulent mettre de l'ordre dans
 leur épargne mais n'ont pas de conseiller ou n'osent pas demander.
 
 ## Brand Voice & Tone
-Français québécois simple, chaleureux, direct. Tutoiement sur Facebook et
-Instagram, vouvoiement sur LinkedIn. Pédagogique, jamais vendeur ni
+Français québécois simple, chaleureux, direct. Tutoiement. Pédagogique, jamais vendeur ni
 alarmiste. Phrases courtes.
 
 ## Default Output Format
 Accroche forte (1 ligne) + 3 à 5 lignes utiles + appel à l'action clair
-vers un rendez-vous (mot-clé en message privé, ex. « BILAN »).
+vers un rendez-vous (commenter le mot-clé « BILAN »).
 
 ## Banned Words & Phrases
 - « rendement garanti », « sans risque », « devenir riche »
@@ -50,7 +49,7 @@ vers un rendez-vous (mot-clé en message privé, ex. « BILAN »).
 - noms de concurrents
 
 ## Formatting Constraints
-- Emoji : avec modération sur Facebook et Instagram, presque pas sur LinkedIn
+- Emoji : avec modération
 - Style des titres : majuscule en début de phrase seulement
 - Phrases courtes à moyennes
 - Conformité : chaque publication doit être approuvée par la conformité
